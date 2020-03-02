@@ -1,0 +1,55 @@
+body {
+    background-color: burlywood;
+}
+
+#secondBackground {
+    background-color: wheat;
+    border-style: solid;
+    border-color: chocolate;
+}
+
+#trainMainTitle {
+    color: darkslategray;
+    background-color: blanchedalmond;
+    text-align: center;
+    border-style: solid;
+    border-color: chocolate;
+    padding: 10px;
+}
+
+#trainScheduleHeader {
+    color: darkslategray;
+    background-color: blanchedalmond;
+    border-bottom-style: solid;
+    border-bottom-color: chocolate;
+    padding: 10px;
+}
+
+#currentTrainBody {
+    border-style: solid;
+    border-color: chocolate;
+    background-color: #FFEEBA;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    padding-right:5px;
+}
+
+#currentTrainInfo {
+    padding: 50px;
+}
+
+#addTrainHeader {
+    color: darkslategray;
+    background-color: blanchedalmond;
+    border-bottom-style: solid;
+    border-bottom-color: chocolate;
+    padding: 10px;
+}
+
+#addTrainBody {
+    border-style: solid;
+    border-color: chocolate;
+    background-color: #FFEEBA;
+    padding-left: 5px;
+    padding-right:5px;
+}
