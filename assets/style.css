@@ -1,5 +1,6 @@
 body {
-    background-color: #e6ac00;
+    background-color: lightblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .panel-primary > .panel-heading {
     background-color: #646464;
@@ -16,3 +17,15 @@ body {
     background-color: #646464;
     color: white;
 }
+#mdcLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 300px;
+    margin-top: 30px;
+    border: 5px #646464 solid;
+}
+tr:nth-child(even) {
+    background-color: #D3D3D3;
+}   
